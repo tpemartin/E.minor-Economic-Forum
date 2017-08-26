@@ -2,7 +2,7 @@
 經濟論壇課程平台
 
 # 課程大網
-***
+
 ## 教學目標
 
 1. 掌握最新國際情勢、經濟金融、社會政治及商業活動訊息。
@@ -28,3 +28,18 @@
 - 使用學校信箱至[Github.com](https://www.github.com)註冊，並下載安裝以下軟體
   - [Github Desktop](https://desktop.github.com/)
   - [Gitter App](https://gitter.im/apps)
+
+## 授課內容
+以《經濟學人》雜誌為主，以下為兩個閱讀管道：
+1. [跟系上借Kindle電子閱覽器](http://www.ntpu.edu.tw/econ/news/news_more.php?id=218)，此閱覽器有訂閱《經濟學人》電子版，供經濟學學生免費閱讀。
+2. 於[《經濟學人》](https://www.economist.com/)閱讀，非訂戶每天可免費閱讀一定文章，但老師建議「線上」訂閱。
+  － 要注意，課堂討論內容只侷限在網頁的【Print edition】內容上。
+
+## 進行方式
+
+1. 每週一晚上8點前完成一篇介紹短文。
+  － Clip在evernote且有劃重點，貼在Github issue。
+2. 每週一晚上針對每篇介紹短文，老師會會Assign二位同學選出比較好的一篇（無需評論，直接選一篇寫得比較好的）。
+3. 每週二下午5點前，回報2選1的結果。
+
+請訂閱課程Google Calendar讓電腦提醒你。
