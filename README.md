@@ -1,6 +1,9 @@
 # E.minor-Economic-Forum
 經濟論壇課程平台
 
+# 課程臉書  
+https://www.facebook.com/groups/ntpueconomicforum/  
+
 # 課程大網
 
 ## 教學目標
