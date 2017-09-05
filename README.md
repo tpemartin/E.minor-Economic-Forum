@@ -45,4 +45,5 @@ https://www.facebook.com/groups/ntpueconomicforum/
 2. 每週一晚上針對每篇介紹短文，老師會會Assign二位同學選出比較好的一篇（無需評論，直接選一篇寫得比較好的）。
 3. 每週二下午5點前，回報2選1的結果。
 
-請訂閱課程Google Calendar讓電腦提醒你。
+請訂閱課程Google Calendar讓電腦提醒你。  
+  - [Google Calendar ics訂閱網址](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_u9ckb6i8re95osttf2eeqqmrco%40group.calendar.google.com/public/basic.ics)
