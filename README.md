@@ -1,8 +1,8 @@
 # E.minor-Economic-Forum
 經濟論壇課程平台
 
-# 課程臉書  
-https://www.facebook.com/groups/ntpueconomicforum/  
+# 課程臉書
+https://www.facebook.com/groups/ntpueconomicforum/
 
 # 課程大網
 
@@ -18,7 +18,7 @@ https://www.facebook.com/groups/ntpueconomicforum/
 課程進行方式採「自學 X 共學」方式進行，每週每位學生從《經濟學人》雜誌選定一則近兩週的文章，先自行閱讀並寫出一篇文章介紹摘要（2~3段，最多不超過4段，可參見[經濟E大調 E.Major 臉書平台(https://www.facebook.com/Emajortaiwanforu)](https://www.facebook.com/Emajortaiwanforu)文章格式），上課時大家輪流分享選定文章內容，並進行討論，課後對文章摘要進行交叉寫作編修。
 
 期末分組進行在地實踐計劃，目標在設計一個國際經濟訊息吸收方式，
-帶領隆恩埔國宅原住民家庭高中學生(先暫定)認識國際經觀，方式不限，
+帶領隆恩埔國宅原住民家庭高中學生(先暫定)理解國際大事，方式不限，
 可以是工作坊或是一系列的小型研習活動。
 
 ## 課程軟體要求
@@ -43,13 +43,16 @@ https://www.facebook.com/groups/ntpueconomicforum/
   － 要注意，課堂討論內容只侷限在網頁的【Print edition】內容上。
 
 ## 進行方式
-每週會針對下週將同學分成3組：寫作組、編輯組、休息組
+每週三會針對下週將同學分成3組：寫作組、編輯組、休息組
 
 #### 寫作組
-1. 每週一晚上8點前完成一篇介紹短文。
+1. 週一晚上8點前完成一篇介紹短文。
   － Clip在evernote且有劃重點，貼在Github issue。
-2. 每週一晚上針對每篇介紹短文，老師會會Assign二位同學選出比較好的一篇（無需評論，直接選一篇寫得比較好的）。
-3. 每週二下午5點前，回報2選1的結果。
 
-請訂閱課程Google Calendar讓電腦提醒你。  
+#### 編輯組
+2. 老師會在Github assign editor，editor需於當週週5前完成第一次的編輯意見。
+
+
+
+請訂閱課程Google Calendar讓電腦提醒你。
   - [Google Calendar ics訂閱網址](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_u9ckb6i8re95osttf2eeqqmrco%40group.calendar.google.com/public/basic.ics)
