@@ -32,6 +32,10 @@ https://www.facebook.com/groups/ntpueconomicforum/
   - [Github Desktop](https://desktop.github.com/)
   - [Gitter App](https://gitter.im/apps)
 
+- 加入[經濟論壇課程臉書社團](https://www.facebook.com/groups/ntpueconomicforum/)
+
+- 填寫[Google個人資訊表單](https://docs.google.com/forms/d/e/1FAIpQLSfHcSbONiCfsNo0itQKj41GMR0fhwsEQ1bkuL6g6Fvp9v3ZLg/viewform?usp=pp_url&entry.790863412=106&entry.1020280629=1%EF%BC%88%E4%B8%8A%E5%AD%B8%E6%9C%9F%EF%BC%89&entry.1851815686=%E7%B6%93%E6%BF%9F%E8%AB%96%E5%A3%87%EF%BC%88%E4%B8%80%EF%BC%89Economic+Forum&entry.614103357&entry.2001747369&entry.1626775644&entry.1551101841&entry.1552485591)
+
 ## 授課內容
 以《經濟學人》雜誌為主，以下為兩個閱讀管道：
 1. [跟系上借Kindle電子閱覽器](http://www.ntpu.edu.tw/econ/news/news_more.php?id=218)，此閱覽器有訂閱《經濟學人》電子版，供經濟學學生免費閱讀。
