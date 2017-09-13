@@ -43,7 +43,9 @@ https://www.facebook.com/groups/ntpueconomicforum/
   － 要注意，課堂討論內容只侷限在網頁的【Print edition】內容上。
 
 ## 進行方式
+每週會針對下週將同學分成3組：寫作組、編輯組、休息組
 
+#### 寫作組
 1. 每週一晚上8點前完成一篇介紹短文。
   － Clip在evernote且有劃重點，貼在Github issue。
 2. 每週一晚上針對每篇介紹短文，老師會會Assign二位同學選出比較好的一篇（無需評論，直接選一篇寫得比較好的）。
