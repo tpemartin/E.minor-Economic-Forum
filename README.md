@@ -42,7 +42,14 @@ https://www.facebook.com/groups/ntpueconomicforum/
 2. 於[《經濟學人》](https://www.economist.com/)閱讀，非訂戶每天可免費閱讀一定文章，但老師建議「線上」訂閱。
   － 要注意，課堂討論內容只侷限在網頁的【Print edition】內容上。
 
-## 進行方式
+## 課堂活動
+本課程共有以下三大類活動：
+A.  閱讀與寫作
+B.  課堂討論
+C.  期末在地實踐與回饋
+
+### A. 閱讀與寫作
+進行方式
 每週三會針對下週將同學分成3組：編輯組、寫作組、休息組
 
 #### 寫作組
@@ -52,7 +59,23 @@ https://www.facebook.com/groups/ntpueconomicforum/
 #### 編輯組
 2. 老師會在Github assign editor，editor需於當週週5前完成第一次的編輯意見。
 
-下週休息組變編輯組，編輯組變寫作組，寫作組變休息組。往後各週以此類推。  
+#### 休息組
+休息。
 
+#### 角色輪替
+下週休息組變編輯組，編輯組變寫作組，寫作組變休息組。往後各週以此類推。
+
+### B. 課堂討論
+寫作組所完成的文章均會是課堂所要討論的文章，同學盡量在上課前看過這些文章。
+
+- 作者新聞介紹
+- 開放討論
+
+### C. 期末在地實踐與回饋
+－ (分組) 選出數則接下來5年內重要的世界趨勢新聞，針對高中生寫成他們有趣興的介紹文章。
+－ 文章集結成冊，做成有質感的小冊子，如：[美感教科書](https://www.flyingv.cc/projects/15219)。
+- 專屬網頁（使用Jekyll）、電子書（Gitbook）及臉書。
+
+## 課程月曆
 請訂閱課程Google Calendar讓電腦提醒你。
   - [Google Calendar ics訂閱網址](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_u9ckb6i8re95osttf2eeqqmrco%40group.calendar.google.com/public/basic.ics)
