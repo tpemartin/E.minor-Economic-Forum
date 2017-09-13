@@ -1,5 +1,6 @@
 # E.minor-Economic-Forum
 經濟論壇課程平台
+https://github.com/tpemartin/E.minor-Economic-Forum
 
 # 課程臉書
 https://www.facebook.com/groups/ntpueconomicforum/
