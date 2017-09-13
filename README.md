@@ -4,7 +4,7 @@
 # 課程臉書
 https://www.facebook.com/groups/ntpueconomicforum/
 
-# 課程大網
+# 課程大綱
 
 ## 教學目標
 
