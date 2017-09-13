@@ -43,7 +43,7 @@ https://www.facebook.com/groups/ntpueconomicforum/
   － 要注意，課堂討論內容只侷限在網頁的【Print edition】內容上。
 
 ## 進行方式
-每週三會針對下週將同學分成3組：寫作組、編輯組、休息組
+每週三會針對下週將同學分成3組：編輯組、寫作組、休息組
 
 #### 寫作組
 1. 週一晚上8點前完成一篇介紹短文。
@@ -52,7 +52,7 @@ https://www.facebook.com/groups/ntpueconomicforum/
 #### 編輯組
 2. 老師會在Github assign editor，editor需於當週週5前完成第一次的編輯意見。
 
-
+下週休息組變編輯組，編輯組變寫作組，寫作組變休息組。往後各週以此類推。  
 
 請訂閱課程Google Calendar讓電腦提醒你。
   - [Google Calendar ics訂閱網址](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_u9ckb6i8re95osttf2eeqqmrco%40group.calendar.google.com/public/basic.ics)
