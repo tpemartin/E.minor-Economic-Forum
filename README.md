@@ -78,4 +78,9 @@ C.  期末在地實踐與回饋
 
 ## 課程月曆
 請訂閱課程Google Calendar讓電腦提醒你。
-  - [Google Calendar ics訂閱網址](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_u9ckb6i8re95osttf2eeqqmrco%40group.calendar.google.com/public/basic.ics)
+  - [A組月曆](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_eu09leqop0dag72klb03ks3jn8%40group.calendar.google.com/public/basic.ics)
+  
+  - [B組月曆](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_7g4ra3i18q7s2680v0nfomuhj4%40group.calendar.google.com/public/basic.ics)  
+  
+  - [C組月曆](https://calendar.google.com/calendar/ical/gm.ntpu.edu.tw_8o9nosptbrj6ju16sn1e2b0f2g%40group.calendar.google.com/public/basic.ics)
+ 
