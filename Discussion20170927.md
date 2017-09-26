@@ -11,7 +11,7 @@
 　　然而，在LoRa技術的不斷發展下，有越來越多的智慧物件被生產，數據及隱私安全都將成為必須要被解決的一大問題，在不久的將來或甚至是現在，可能不僅連你的身分資料，甚至是你今天去過哪裡、見過誰或做了哪些事的資訊，都隨時被這些感知設備給記錄下來、並傳給有心人士了。
 
 ---
-## 2.[How China is battling ever more intensely in world markets](https://www.economist.com/news/leaders/21729430-does-it-play-fair-how-china-battling-ever-more-intensely-world-markets)
+# 2.[How China is battling ever more intensely in world markets](https://www.economist.com/news/leaders/21729430-does-it-play-fair-how-china-battling-ever-more-intensely-world-markets)
 
 中國經濟發展快速地令人敬畏，但與此同時人們也越來越擔心世界將被一個不講求公平的經濟體所主宰，因此必須清楚的思考由中國所帶來的挑戰的真正本質。
 雖然中國一直給人企業是由"國家隊"組成的形象，但中國的本土創新的私營企業正蓬勃發展，我們可從三個方面看到中國市場的變化：非法、競爭、不公平。
@@ -21,7 +21,7 @@
 儘管面對著中國企業們的不公平，整體而言中國高速的經濟發展對消費者還是受益的，我們從低成本、更快速的創新中獲益。若執意阻擋中國的發展，還可能摧毀世界的貿易體系。因此面對中國企業帶來的競爭與挑戰，我們不應該忽視或禁止，而是應該讓中國了解，他們已是全球商業體系中重要的成員，要與世界一同守護及遵守這個體系。
 
 ---
-### 3.[China moves towards banning the internal combustion engine](https://www.economist.com/news/business/21728980-its-government-developing-plan-phase-out-vehicles-powered-fossil-fuels-china-moves)
+# 3.[China moves towards banning the internal combustion engine](https://www.economist.com/news/business/21728980-its-government-developing-plan-phase-out-vehicles-powered-fossil-fuels-china-moves)
 
 汽車產業的關鍵時刻
 
@@ -37,7 +37,7 @@
 比亞迪，一家得到股神巴菲特大力支持的中國電動車廠，大幅度的改善了電動車的質量，且成功銷售於海外國家，更有些新興的創投電動車公司，NIO、Thunder Power 在全球汽車市場掀起新的波浪。這場汽車動力電動化的科技發展，將使中國的汽車業有機會從魯蛇變贏家。
 
 ---
-#### 4.[What if the bitcoin bubble bursts?](https://www.economist.com/news/leaders/21722841-latest-frenzy-tulipmania-gold-rush-or-dotcom-boom-what-if-bitcoin-bubble)
+# 4.[What if the bitcoin bubble bursts?](https://www.economist.com/news/leaders/21722841-latest-frenzy-tulipmania-gold-rush-or-dotcom-boom-what-if-bitcoin-bubble)
 
 市場經常泡沫化，但是比特幣（一種虛擬貨幣）卻是繁榮蓬勃的。任何人如果在2010年7月購買了1,000美元的比特幣，當時的價格為0.05美元，現在將有一個價值4,600萬美元的比特幣。這只是一個投機操作，還是證明比特幣現在正作為交換媒介或價值儲藏工具？換句話說，比特幣像當初荷蘭鬱金香、黃金還是美元，還是別的？
 一開始只是一個虛擬的鬱金香，價格上漲鼓勵更多的買家，零售投資者紛紛湧入，像一個騙子的天堂。但不同鬱金香的是，比特幣有真正的用途。他可以購買從披薩到電腦等許多真實用品。那黃金呢？因Goldbugs不信任政府，因此沒有中央銀行負責比特幣。
@@ -47,14 +47,14 @@
 註：ICO 其實就是比特幣世界的 IPO 。和普通 IPO 銷售股份不同的是，他們銷售的是自己的代幣。實際上，這種形式更像是區塊鏈上的眾籌。創業公司通過向投資人講解自己公司的計劃，通過兌換代幣的形式，來籌集資金。
 
 ---
-##### 5.[Biting the bulletChina sets its sights on dominating sunrise industries](https://www.economist.com/news/finance-and-economics/21729442-its-record-industrial-policy-successes-patchy-china-sets-its-sights)
+# 5.[Biting the bulletChina sets its sights on dominating sunrise industries](https://www.economist.com/news/finance-and-economics/21729442-its-record-industrial-policy-successes-patchy-china-sets-its-sights)
 
 中國大陸經濟快速成長，已成為區域甚至全球的經濟大國，其經濟發展形勢將牽動全球經貿版圖的消長，這是近年來各界關注的焦點之一。“Made in China“� 讓中國一夕之間的工業策略全球風靡，然而，當四種因素的結合�-國外科技,國內企業能力,市場需求,政府資金，中國企業將缺乏效率。
 2004年高速鐵路的盛行，讓中國大陸政府提供誘人的因素以吸引國外工程師對於國內建設知識（know-how）的分享。而有些人從一開始的拒絕，到後來，看到能分食中國這塊大餅市場的誘因時，卻使得這些專業技術人員願意來廠投資&傳授分享。在中國國內廠商的致力及用心培育下，使得中國企業不久後便學習相當技術，經過幾年後的籌建，對於國內鐵路建設漸漸改善許多。
 總括來說，中國大陸近年來的強勢崛起，不完全是依靠“Made in China“不斷複製，更不僅僅是因為外國廠商對於成功關鍵的保密守護，而是他國對於中國會成功的賭注過於輕率應付！
 
 ---
-###### 6.[China sets its sights on dominating sunrise industries](https://www.economist.com/news/finance-and-economics/21729442-its-record-industrial-policy-successes-patchy-china-sets-its-sights)
+# 6.[China sets its sights on dominating sunrise industries](https://www.economist.com/news/finance-and-economics/21729442-its-record-industrial-policy-successes-patchy-china-sets-its-sights)
 
 中國近來創了世界最快的高鐵紀錄，時速高達350公里，往來北京與上海（京滬），而這樣的紀錄必須歸功於中國的產業政策。中國第一條高鐵創建至今僅不過短短十年的時間，而今已有長達20,000公里的高速鐵道，這除了要歸功於中國的大政府、各式的產業優惠政策外，給予誘因使外國公司願意提供商業機密是最重要的關鍵，然而也是最具爭議性的。
 
