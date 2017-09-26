@@ -1,6 +1,6 @@
 # 1.[A clever way to transmit data on the cheap](https://www.economist.com/news/science-and-technology/21728866-long-range-frugal-new-chip-could-be-just-what-smart-city-needs-clever-way)
 
-運用成本更低、距離更遠的 無線傳輸技術，讓物件更智慧。
+運用成本更低、距離更遠的無線傳輸技術，讓物件更智慧。
 
 除了我們一般熟知的WiFi無線網路以外，另一種稱為"LoRa"(Long Range)的無線傳輸技術在這幾年被大量廣泛使用在醫療、智慧物件、智慧農業、物聯網等方面。將這種無線傳輸技術應用在物件上，可使物件透過無線電波傳遞資訊來達到方便管理的功能。然而，和WiFi不同的是，LoRa擁有"遠距傳輸"、"低成本"、"低功耗"的特點，也因為耗能低，搭載LoRa的芯片在未來也可能藉由週遭的環境來補充能量，更加延長使用時間。
 
