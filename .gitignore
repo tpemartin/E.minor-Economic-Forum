@@ -1,2 +1,6 @@
 /temp
 *.pdf
+.Rproj.user
+Discussion/_book/
+Discussion/rsconnect
+Discussion/_bookdown_files
