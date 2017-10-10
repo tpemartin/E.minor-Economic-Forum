@@ -85,7 +85,7 @@ Uber之興起：2012年倫敦舉辦夏季奧運前，Uber取得了倫敦交通�
 多數北韓人民會以賄賂方式收買巡邏隊員，北韓當局為更徹底地防止人民接收外國資訊，當局也曾嘗試在相近頻率上播放北韓歌曲以阻絕外國資訊，而BBC則對此相當不以為然，認為訊號不可能這麼容易被干擾。
 
 ---
-[The air around North Korea is getting crowded](https://www.economist.com/news/asia/21730005-least-ten-foreign-radio-stations-are-aiming-their-broadcasts-nuclear-dictatorship-air)
+#7.[The air around North Korea is getting crowded](https://www.economist.com/news/asia/21730005-least-ten-foreign-radio-stations-are-aiming-their-broadcasts-nuclear-dictatorship-air)
 一直以來北韓境內合法的廣播內容不外乎，領土主權的宣揚、真實性有待商確的農產產量成果報告，或是核子物理研究所的最新發明成果。可以違法接收短波無線電的收音機，則至少能接收到10個以上來自他國發射台的訊號，當然也包括韓國。
 
 波無線電乘載的內容從煽動人士激進的言論、K-pop音樂，到由英國BBC提供的時事新聞、天氣預報及英文教學。而Voice of America的調查也顯示，有29%的脫北者曾收聽過這些違法的外國電台；而曾接受過外國資訊的比例絕對是大於該數據，即使在毫無言論自由的北韓，口耳相傳的力量仍不可忽視。
