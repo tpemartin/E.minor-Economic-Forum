@@ -20,8 +20,6 @@ The bubble without any fizz
     
     - 目前長期利率水準也偏低，消費者開始找尋其他較能保有購買力的資產。
     
-      An interest rate is the reward for forgoing spending today, to consume tomorrow. When the desire to spend today’s income tomorrow increases, interest rates fall. That makes people keen to find other ways of storing their spending power—and thus more willing to pay more for other assets
-
 
 ##### 為什麼長期利率水準偏低
 
@@ -39,51 +37,34 @@ The bubble without any fizz
 
 - 科技產業不再高度依存廠房設備投資，而多投資在無形資產上（後者成本相對上也低）。
 
-中央銀行的政策：
+中央銀行的政策：  
 
-- short-term interest rates have been kept low for a long time
+- 長期持續壓低短期利率，有一部份是對經濟表現遲滯的反應。
 
-- an attempt to push investors into riskier assets, thus ginning up the economy
+- 傳統理論認為，當利率夠低時，景氣會過熱，物價開始上漲，此時會是調升利率時機。然而，目前看不到這跡象，因此市場進一步預期低利率還會再持續一陣子。
 
-- Central banks are as much shaped by economic trends as shapers of them
+    - 持續的低利率表示折現率低，所以廠商未來獲利的現值提高，這會反應在廠商股價的上升。
+    
+##### 有沒有可能物價上漲率不是好的訊號指標？
 
-- If the central banks were really keeping interest rates and bond yields too low, the economy would overheat and inflation would take off. There is not much evidence of this
+- 我們可能正面臨巨大的結構性變化，導致價格無法上漲。例如： 
 
-- In the absence of inflation it is reasonable to expect low interest rates to persist, and thus unsurprising that the prices of stocks, corporate bonds and property go up
+    - 全球化，工會力量勢微，技術變化。我們看到失業率下降，但看不到薪資及物價的上升。傳統菲利浦曲線所描繪的物價上漲率與失業率的關連，在此時並不顯著。
 
-- If the yields on risk-free bonds stay depressed, then the expected returns on all other assets—the earnings yields on equities, say, or the rental yield on houses—must fall into line.
+##### 未來會怎麼變化？
 
-- If the real interest rate is lower and looks likely to stay that way, discount rates will fall, too. That makes future earnings more valuable, and goes some way to justifying paying a high price for them.
+- 當債券殖利率開始回升，可能引發債券的拋售，債券以外風險性較高的資產可能會看到價格的崩盤。-- Hyun Song Shin, BIS. 從過往經驗，股市是最易泡沬化的一環，且對經濟的衝擊巨大。
 
-- What if, for instance, inflation is sending a false signal about where real interest rates should be?
+- 世界儲蓄力道也正在減弱；中國經常帳盈餘佔GDP比率正在縮小。利率調升的時機和程度不容易拿捏。
 
-- If that were the case, central banks might indeed be keeping rates lower than they ought to.
+##### 政府應該怎麼做
 
-- entral banks steer by the inflation rate as mariners steer by their compasses. If it rises, the economy is overheating and the ship must adjust its trim. If it falls, the economy needs a dose of monetary stimulus; the sails must be unfurled. The problem, Mr Borio says, is that the compass no longer reads true.
+- 及早適時的減低股市價格。  
 
-- Globalisation, the decline of union power and technological change mean that inflation does not perk up when the jobless rate falls in quite the way it used to; the short-term trade-off between inflation and the unemployment rate, known as the Phillips Curve, has weakened to the point of breakdown
+- 央行要理解股市的漲跌多數與廠商集資無關，而是背後銀行體系信用創造推升買氣的結果，故重點在控制信用，減少融資投資在流動性低資產的額度是建議之道。
 
-- a decade of aggressively loose monetary policy may well have weighed down bond-market rates—and thus, for a while at least, people’s idea of the neutral real rate
+- 要求銀行有足夠資本額來因應未來泡沬破滅後的衝擊。
 
-- What does this mean for the future? One possibility is that the spiral may go into reverse as central banks
-
-- Hyun Song Shin of the BIS recently warned of the perils of a possible “snapback” in global bond yields if, for instance, some investors start dumping bonds as yields rise, just as they snapped them up as yields fell. The prices of other assets, such as stocks, might also lose support. Indeed, the prices of other assets might be more destabilised than those in the bond markets themselves.
-
-- to tighten will be made more vexed by indications that the increased propensity for saving, is itself in the process of turning round. China’s current-account surplus (a measure of its excess saving) narrowed from 10% of GDP in 2007 to under 2% of GDP in 2016.
-
-- Who should worry about this? One view is that, because stockmarket booms tend to end badly, policymakers should take deliberate action now to deflate prices before it is too late.
-
-- For some tastes, this comes close to arguing that the Fed has to destroy the recovery in order to save it; the steep rise in the federal funds rate required to bring American share prices to earth might tip the economy into recession
-
-- the stockmarket is a sideshow. Hardly any capital is allocated with reference to stock values, since IPOs are so scarce. What matters to the economy are banks and (in America, at least) credit markets.
-
-- when the mood in credit markets is bullish (ie, corporate-bond spreads are unusually narrow and the share of junk-bond issuance high), the economy will soon suffer, with an abrupt tightening of credit and slower growth.
-
-- “I’m wary of targeting inflation so aggressively that you are not mindful of the risks from bullish sentiment.”
-
-- The least—and perhaps the best—that can be done is to ensure that the real economy is protected should prices suddenly fall. That means guarding against purchases made with too much borrowed money of illiquid assets, especially property
-
-- ensuring banks have enough capital to withstand a correction in asset prices
 
 · Highlighted Source : http://lnr.li/YOOXR/
 · Original Source : https://www.economist.com/news/briefing/21729988-low-interest-rates-have-made-more-or-less-all-investments-expensive-bubble-without-any-fizz
